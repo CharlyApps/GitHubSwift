@@ -6,3 +6,4 @@ Project build under MVVM pattern.
 - Infinite scroll when scrolling repos.
 - SD Web Image pod used for getting and cache avatar images.
 - Shared app delegate to open web browser for repo details.
+- When type new text re calculates last data input to delay or cancel previous requests.
